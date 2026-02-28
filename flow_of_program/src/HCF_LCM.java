@@ -1,5 +1,3 @@
-package flow_of_program;
-
 import java.util.Scanner;
 public class HCF_LCM
 {
