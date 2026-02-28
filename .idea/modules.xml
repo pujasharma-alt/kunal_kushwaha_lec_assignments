@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flow_of_program/flow_of_program.iml" filepath="$PROJECT_DIR$/flow_of_program/flow_of_program.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kunal_kushwaha_lec_assignments.iml" filepath="$PROJECT_DIR$/kunal_kushwaha_lec_assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/codes.iml" filepath="$PROJECT_DIR$/codes/codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/first_program/first_program.iml" filepath="$PROJECT_DIR$/codes/first_program/first_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/first_program_java/first_program_java.iml" filepath="$PROJECT_DIR$/codes/first_program_java/first_program_java.iml" />
     </modules>
   </component>
 </project>
