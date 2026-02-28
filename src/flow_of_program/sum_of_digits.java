@@ -1,3 +1,5 @@
+package flow_of_program;
+
 import java.util.Scanner;
 public class sum_of_digits
 {

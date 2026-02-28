@@ -1,3 +1,5 @@
+package flow_of_program;
+
 import java.util.Scanner;
 public class multiplication_table {
     // ake a number as input and print the multiplication table for it.
